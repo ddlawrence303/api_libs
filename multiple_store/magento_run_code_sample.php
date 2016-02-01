@@ -62,7 +62,7 @@ class GlobalLib
 
     public static function getCountryDataByCode($code)
     {
-        return self::$_country_datas[$code] ?: self::$_country_datas['us'];
+        //return self::$_country_datas[$code] ?: self::$_country_datas['us'];
     }
 
 }
