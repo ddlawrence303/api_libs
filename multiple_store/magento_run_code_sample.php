@@ -10,7 +10,7 @@ class GlobalLib
             'website_run_code' => 'website_us_en_US',
             'store_run_code' => 'store_us_en_us',
             'online' => false,
-            'text' => array('en_short' => 'USA', 'mixed' => 'USA Optoma'),
+            'text' => array('en_short' => 'USA', 'mixed' => 'USA Store'),
             'currency' => '$',
             'in_service' => false
         ),
@@ -21,7 +21,7 @@ class GlobalLib
             'website_run_code' => 'website_ca_en_CA',
             'store_run_code' => 'store_ca_en_CA',
             'online' => false,
-            'text' => array('en_short' => 'CA', 'mixed' => 'Canada Optoma'),
+            'text' => array('en_short' => 'CA', 'mixed' => 'Canada Store'),
             'currency' => '$',
             'in_service' => false
         ),
@@ -32,7 +32,7 @@ class GlobalLib
             'website_run_code' => 'website_mx_es_MX',
             'store_run_code' => 'store_mx_es_MX',
             'online' => false,
-            'text' => array('en_short' => 'MX', 'mixed' => 'Mexico Optoma'),
+            'text' => array('en_short' => 'MX', 'mixed' => 'Mexico Store'),
             'currency' => 'Mex$', // peso :: Symbol ($) or Mex$
             'in_service' => false,
         ),
@@ -43,7 +43,7 @@ class GlobalLib
             'website_run_code' => 'website_br_pt_BR',
             'store_run_code' => 'store_br_pt_BR',
             'online' => false,
-            'text' => array('en_short' => 'BR', 'mixed' => 'Brazil Optoma'),
+            'text' => array('en_short' => 'BR', 'mixed' => 'Brazil Store'),
             'currency' => 'R$', // real :: Symbol	R$
             'in_service' => false
         ),
